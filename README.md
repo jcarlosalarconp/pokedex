@@ -11,11 +11,10 @@ API: https://pokeapi.co/
 ✅ Mensaje de alerta si la busqueda no coincide con un Pokémon
 ✅ Estilar la aplicación para que sea agradable
 
-Previews:
-# PC
+# PC Preview
 ![pokedex-list-pc-preview](https://github.com/jcarlosalarconp/pokedex/assets/48281276/0f95a644-7d86-4dbc-8fb0-fe509bfeec7e)
 ![pokedex-detail-pc-preview](https://github.com/jcarlosalarconp/pokedex/assets/48281276/0b46cfe1-a12e-4d2f-a78c-f2ea68827cd3)
 
-# Smartphone
+# Smartphone Preview
 ![pokedex-list-smartphone-preview](https://github.com/jcarlosalarconp/pokedex/assets/48281276/a9556955-868a-4a3c-a7ab-532041d07226)
 ![pokedex-detail-smartphone-preview](https://github.com/jcarlosalarconp/pokedex/assets/48281276/51734f93-8026-4304-baae-c9a112c3ea2c)
