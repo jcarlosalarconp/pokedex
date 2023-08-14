@@ -17,5 +17,5 @@ Previews:
 ![pokedex-detail-pc-preview](https://github.com/jcarlosalarconp/pokedex/assets/48281276/0b46cfe1-a12e-4d2f-a78c-f2ea68827cd3)
 
 # Smartphone
-![pokedex-detail-smartphone-preview](https://github.com/jcarlosalarconp/pokedex/assets/48281276/eb68e082-ef8d-4f26-b1a2-3922938ba574)
 ![pokedex-list-smartphone-preview](https://github.com/jcarlosalarconp/pokedex/assets/48281276/a9556955-868a-4a3c-a7ab-532041d07226)
+![pokedex-detail-smartphone-preview](https://github.com/jcarlosalarconp/pokedex/assets/48281276/ef616925-83ae-4b51-ab76-0e20411b162c)
