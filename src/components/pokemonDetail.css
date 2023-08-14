@@ -42,7 +42,7 @@
     width: 350px;
   }
   .pokemon-info{
-    margin-left: 0px;
+    margin-left: 0px !important;
   }
 
 }
