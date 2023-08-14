@@ -1,14 +1,14 @@
 # React Pokédex
 https://pokedex-cyan-six.vercel.app/
 
-API: https://pokeapi.co/
-✅ Listar los Pokémon con su información básica.
-✅ Al seleccionar un Pokémon, mostrar su información más detallada
-✅ Fetching de datos a la API
-✅ Web completamente responsive
-✅ Lista con Infinte Scrolling
-✅ Busqueda de Pokémon por nombre o id
-✅ Mensaje de alerta si la busqueda no coincide con un Pokémon
+API: https://pokeapi.co/ </br>
+✅ Listar los Pokémon con su información básica. </br>
+✅ Al seleccionar un Pokémon, mostrar su información más detallada </br>
+✅ Fetching de datos a la API </br>
+✅ Web completamente responsive </br>
+✅ Lista con Infinte Scrolling </br>
+✅ Busqueda de Pokémon por nombre o id </br>
+✅ Mensaje de alerta si la busqueda no coincide con un Pokémon </br>
 ✅ Estilar la aplicación para que sea agradable
 
 # PC Preview
