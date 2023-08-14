@@ -18,4 +18,4 @@ Previews:
 
 # Smartphone
 ![pokedex-list-smartphone-preview](https://github.com/jcarlosalarconp/pokedex/assets/48281276/a9556955-868a-4a3c-a7ab-532041d07226)
-![pokedex-detail-smartphone-preview](https://github.com/jcarlosalarconp/pokedex/assets/48281276/ef616925-83ae-4b51-ab76-0e20411b162c)
+![pokedex-detail-smartphone-preview](https://github.com/jcarlosalarconp/pokedex/assets/48281276/51734f93-8026-4304-baae-c9a112c3ea2c)
